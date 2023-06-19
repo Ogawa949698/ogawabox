@@ -17,5 +17,12 @@ echo Date?
 read dat
 echo -n $dat >> sample.txt
 
-exit
+#brank
+echo -n " " >> sample.txt
 
+#writecomment
+echo Comment?
+read com
+echo $com >> sample.txt
+
+exit

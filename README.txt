@@ -24,4 +24,4 @@ Please fix some files to run correctoly at your env.
 内容物 products
 ogawabox
  meta
-  aup.sh 
+  aup.sh リリースノートの追記とgithubへ全ファイルpushを対話形式で支援します

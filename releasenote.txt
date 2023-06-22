@@ -17,3 +17,8 @@
 7   202306200320 OK
 8   202306201830 リりどみ導入
 19 Fri Jun 23 02:36:52 JST 2023 aup_complete aup_means_AdvancedUPloader
+20 Fri Jun 23 03:06:06 JST 2023 mini test
+21 Fri Jun 23 03:06:57 JST 2023 sukosi ookiku
+22 Fri Jun 23 03:08:05 JST 2023 Full Test
+23 Fri Jun 23 03:08:25 JST 2023 full test
+24 Fri Jun 23 03:09:36 JST 2023 Tanomu Zo

@@ -24,7 +24,8 @@ echo $nver $dat $tit $art >> ../releasenote.txt
 
 git add -A
 echo $nver $tit > temp_for_commit
-cat temp_for_commit | git commit -m -
+comimess=$(cat temp_for_commit)
+git commit -m "$comimess"
 git push
 #rm temp_for_commit
 

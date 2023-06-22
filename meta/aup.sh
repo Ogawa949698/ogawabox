@@ -2,6 +2,7 @@
 
 #get version number
 ver=`grep -c '^' releasenote.txt`
+
 echo $ver
 nver=$((ver + 1))
 echo ver

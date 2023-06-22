@@ -23,6 +23,9 @@ read art
 echo $nver $dat $tit $art >> ../releasenote.txt
 
 git add -A
-git commit -m $tit
+echo $nver $tit > temp_for_commit
+cat temp_for_commit | git commit -m -
 git push
+#rm temp_for_commit
+
 exit

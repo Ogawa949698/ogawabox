@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #get version number
-ver=`grep -c '^' ../releasenote.txt`
+ver=`grep -c '^' releasenote.txt`
 echo $ver
 nver=$((ver + 1))
 echo ver
@@ -20,7 +20,7 @@ echo article?
 read art
 
 #writedown
-echo $nver $dat $tit $art >> ../releasenote.txt
+echo $nver $dat $tit $art >> releasenote.txt
 
 #gitting
 git add -A

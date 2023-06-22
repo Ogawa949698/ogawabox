@@ -22,11 +22,12 @@ read art
 #writedown
 echo $nver $dat $tit $art >> ../releasenote.txt
 
+#gitting
 git add -A
 echo $nver $tit > temp_for_commit
 comimess=$(cat temp_for_commit)
 git commit -m "$comimess"
 git push
-#rm temp_for_commit
+rm temp_for_commit
 
 exit

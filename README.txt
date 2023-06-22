@@ -27,3 +27,5 @@ ogawabox
   aup.sh リリースノートの追記とgithubへ全ファイルpushを対話形式で支援します
           This adds text to releasenote.txt 
           and pushes to github automaticaly through a dialogue.
+  releasenote.txt バージョン番号、日時、要約、詳細が記録されています
+                  Ver.No, date, summary, article will be given.

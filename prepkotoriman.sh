@@ -3,5 +3,5 @@ cd
 cd ogawabox
 git clone https://github.com/ShellShoccar-jpn/kotoriotoko.git
 cd ./BIN
-echo Plz type "./kotoriotoko/BIN/getstarted.sh
+echo Plz type "~/ogawabox/kotoriotoko/BIN/getstarted.sh
 exit

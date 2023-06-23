@@ -1,2 +1,33 @@
 1 Fri Jun 23 04:08:16 JST 2023 Comp.REDME sore
 2 Fri Jun 23 09:53:40 JST 2023 test gomen_mada
+1 Fri Jun 23 02:16:24 JST 2023 tabun ugoku
+2 Fri Jun 23 02:19:48 JST 2023 nver_wo Tuika_simasita
+3 Fri Jun 23 02:21:20 JST 2023 kondokoso_nver tanomu
+4 Fri Jun 23 02:27:18 JST 2023 kondokoso onegai
+5 Fri Jun 23 02:28:27 JST 2023 ko nd
+6 Fri Jun 23 02:30:18 JST 2023 oknndoha ikeru
+7 Fri Jun 23 02:30:52 JST 2023 kondoha douda
+8 Fri Jun 23 02:32:46 JST 2023 kondo tanomu
+9 Fri Jun 23 02:33:52 JST 2023 kondo ikeru
+1   202306200920 prepkotorimanCOMPLETE?
+1 1:29 6/20
+2remembered push/pull?1:33
+4plz remember!!!!
+5 TEST powered by shell script
+52023062003126   2023062003146   202306200319 Complete?
+6   202306200320 Kaigyoued?
+7   202306200320 OK
+8   202306201830 リりどみ導入
+19 Fri Jun 23 02:36:52 JST 2023 aup_complete aup_means_AdvancedUPloader
+20 Fri Jun 23 03:06:06 JST 2023 mini test
+21 Fri Jun 23 03:06:57 JST 2023 sukosi ookiku
+22 Fri Jun 23 03:08:05 JST 2023 Full Test
+23 Fri Jun 23 03:08:25 JST 2023 full test
+24 Fri Jun 23 03:09:36 JST 2023 Tanomu Zo
+25 Fri Jun 23 03:59:46 JST 2023 Idou Sitayo
+26 Fri Jun 23 04:14:54 JST 2023 Thank You
+27 Fri Jun 23 04:15:06 JST 2023 Subara See
+28 Fri Jun 23 04:15:42 JST 2023 kondo koso
+29 Fri Jun 23 04:15:52 JST 2023 een tyau?
+releasenote.txt
+33 Fri Jun 23 09:55:21 JST 2023 RN_fix releasenote.txtの参照を絶対パスにしました

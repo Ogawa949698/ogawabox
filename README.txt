@@ -70,4 +70,5 @@ ogawabox
 ||        This adds text to releasenote.txt
 ||        and pushes all files in ogawabox/ to github automaticaly through a dialogue.
 ||-releasenote.txt バージョン番号、日時、要約、詳細が記録されています
-                  Ver.No, date, summary, article will be given.
+|                 Ver.No, date, summary, article will be given.
+|-prepkotoriman.sh コマンドひとつで install kotoriotoko* by ONE command

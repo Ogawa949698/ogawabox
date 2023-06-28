@@ -38,3 +38,4 @@ releasenote.txt
 5 Fri Jun 23 03:45:13 JST 2023 りどみ2 aupには対応?
 6 Fri Jun 23 03:53:44 JST 2023 Banog No
 40 Wed Jun 28 16:39:52 JST 2023 kotorimann_PIN/made PINmadeAutomated
+41 Wed Jun 28 16:45:54 JST 2023 Osouji kotoriman_kataduke

@@ -31,3 +31,10 @@
 29 Fri Jun 23 04:15:52 JST 2023 een tyau?
 releasenote.txt
 33 Fri Jun 23 09:55:21 JST 2023 RN_fix releasenote.txtの参照を絶対パスにしました
+1 Fri Jun 23 03:00:54 JST 2023 ガチりどみ１ そう
+2 Fri Jun 23 03:04:19 JST 2023 kakunin sou
+3 Fri Jun 23 03:11:01 JST 2023 aup_check Tanomu
+4 Fri Jun 23 03:13:57 JST 2023 cup_check tanonmasu
+5 Fri Jun 23 03:45:13 JST 2023 りどみ2 aupには対応?
+6 Fri Jun 23 03:53:44 JST 2023 Banog No
+40 Wed Jun 28 16:39:52 JST 2023 kotorimann_PIN/made PINmadeAutomated

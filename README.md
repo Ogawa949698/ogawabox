@@ -13,7 +13,7 @@ This pack is developing for now.
 各環境にローカライズしてお使いください。  
 Please fix some files to run correctoly at your env.  
 
-********************************************************************************
+***
 ## Caution　注意  
 
 You can get **NO WARRANTY**  
@@ -23,9 +23,8 @@ because this package is being developped ONLY to earn my skils to write shellskr
 If you cannot take responsiblity for your attempt,  
 or if you cannot talk wheather ogawabox is hurmful or not  
 please refrain from using ogawabox.  
-*********************************************************************************
+***
 
-------------------------------------------------------------
 ### [[[How to install インストール方法]]]
 
 step0
@@ -59,10 +58,7 @@ $ sudo apt install git
 Step2
 ```./getstarted.sh```  
 
-------------------------------------------------------------
-
-
-
+---
 
 ### 内容物 products  
 ogawabox  

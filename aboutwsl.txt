@@ -1,0 +1,7 @@
+windows updateしろ！！！！
+
+コンパネ→Windowsの機能の有効化または無効化
+
+wsl --update
+
+wsl --install Ubuntu-20.04

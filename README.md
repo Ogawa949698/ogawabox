@@ -1,21 +1,20 @@
-README (取扱説明書?)
+### README (取扱説明書?)
+#### ogawabox  
 
-===ogawabox===
-
-This package helps you flee from typing too long cord to set up new emvironent.
+This package helps you flee from typing too long cord to set up new emvironent.  
 
 このパッケージはいちいち新しい環境ごとにツールをインストールする手間を削減、
 具体的にはネットからコピペできない環境で
-長いコマンドを手打ちする苦行からあなたを解放できるようにするものです。
+長いコマンドを手打ちする苦行からあなたを解放できるようにするものです。  
 
-This pack is developing for now.
-このパッケージは発展途上であります
+This pack is developing for now.  
+このパッケージは発展途上であります  
 
-各環境にローカライズしてお使いください。
-Please fix some files to run correctoly at your env.
+各環境にローカライズしてお使いください。  
+Please fix some files to run correctoly at your env.  
 
 ********************************************************************************
-Caution　注意
+## Caution　注意  
 
 You can get **NO WARRANTY**  
 because this package is being developped ONLY to earn my skils to write shellskripts.  
@@ -27,7 +26,7 @@ please refrain from using ogawabox.
 *********************************************************************************
 
 ------------------------------------------------------------
-[[[How to install インストール方法]]]
+### [[[How to install インストール方法]]]
 
 step0
 gitを使える(技術的に/信念的に)⇒⇒⇒Step1A
@@ -65,7 +64,7 @@ Step2
 
 
 
-内容物 products  
+### 内容物 products  
 ogawabox  
 |-meta  
 ||-aup.sh releasenote.txtへの追記とgithubにogawabox/の全ファイルpushを対話形式で支援します  

@@ -55,3 +55,4 @@ releasenote.txt
 55 Thu Jun 29 23:19:18 JST 2023 Tekitou tokuninashi
 56 Fri Jun 30 02:26:02 JST 2023 guten tag.sh
 57 Fri Jun 30 02:44:28 JST 2023 wsl no
+58 Fri Jun 30 02:52:03 JST 2023 dav1 webvab

@@ -18,10 +18,12 @@ Please fix some files to run correctoly at your env.
 Caution　注意
 
 You can get NO WARRANTY
-because this package is being developped to earn my skils to write shellskripts.
+because this package is being developped ONLY to earn my skils to write shellskripts.
 このパッケージに保証はありませんので自己責任での利用をお願いいたします。
 
-If you cannot 
+If you cannot take responsiblity for your attempt,
+or if you cannot talk wheather ogawabox
+please refrain from using ogawabox.
 *********************************************************************************
 
 ------------------------------------------------------------
@@ -32,19 +34,19 @@ gitを使える(技術的に/信念的に)⇒⇒⇒Step1A
 
 gitは嫌だ⇒⇒⇒Step1B
 
-gitってなにか知らない & 管理者がgit cloneを許可している⇒⇒⇒Step1C
+gitってなにか知らない && 管理者がgit cloneを許可している⇒⇒⇒Step1C
 
 
 Step1A
 コマンドラインに
-$ git clone https://github.com/Ogawa949698/ogawabox.git
+`git clone https://github.com/Ogawa949698/ogawabox.git`
 2へ
 
 Step1B
-$ wget (準備中)
-$ unzip (準備中)
-$ cd ~/ogawabox
-$ chmod +x getstarted.sh
+`wget` (準備中)
+`unzip (準備中)
+`cd ~/ogawabox`
+`chmod +x getstarted.sh`
 2へ
 
 Step1C

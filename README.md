@@ -24,10 +24,10 @@ because this package is being developped ONLY to earn my skils to write shellskr
 If you cannot take responsiblity for your attempt,  
 or if you cannot talk wheather ogawabox is hurmful or not  
 please refrain from using ogawabox.  
-このパッケージを使用したことで発生するかもしれないあらゆる
-(司法レベルでの常識は別にして)不利益について責任を取れない方、　　
-または含まれるスクリプトが有害であるか否かを判断できない方は　　
-このパッケージの仕様を控えてください　　
+このパッケージを使用したことで発生するかもしれないあらゆる  
+(司法レベルでの常識は別にして)不利益について責任を取れない方、  
+または含まれるスクリプトが有害であるか否かを判断できない方は  
+このパッケージの使用を控えてください  
 ***
 
 ### [[[How to install インストール方法]]]

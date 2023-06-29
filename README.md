@@ -74,7 +74,7 @@ ogawabox
 ||-releasenote.txt バージョン番号、日時、要約、詳細が記録されています  
 |                 Ver.No, date, summary, article will be given.  
 |-aboutwsl.txt wslでUbuntuを導入する際のおぼえ書き  
-               Tips to install Ubuntu in wsl
+               Tips to install Ubuntu in wsl  
 |-prepkotoriman.sh コマンドひとつで install kotoriotoko* by ONE command  
 |-rmbox.sh OgawaboXをまるごとバージョンアップしたい時にだけ使うデータはすべて消える  
 | To prepare replacing an old ogawabox without your data  

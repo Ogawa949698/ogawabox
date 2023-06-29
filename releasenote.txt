@@ -44,3 +44,4 @@ releasenote.txt
 44 Wed Jun 28 17:34:53 JST 2023 moreREDOME madamada_kakenai
 45 Thu Jun 29 11:02:37 JST 2023 Try_markdown tamesini_markdown
 46 Thu Jun 29 11:05:33 JST 2023 GOmen3 mittudatta
+47 Thu Jun 29 11:07:34 JST 2023 ext kakutyousi.md

@@ -30,37 +30,36 @@ please refrain from using ogawabox.
 このパッケージの使用を控えてください  
 ***
 
-### [[[How to install インストール方法]]]
+### How to install インストール方法
 
-step0
-gitを使える(技術的に/信念的に)⇒⇒⇒Step1A
+#### step0  
+gitを使える(技術的に/信念的に)⇒⇒⇒Step1A  
 
-gitは嫌だ⇒⇒⇒Step1B
+gitは嫌だ⇒⇒⇒Step1B  
 
-gitってなにか知らない && 管理者がgit cloneを許可している⇒⇒⇒Step1C
+gitってなにか知らない && 管理者がgit cloneを許可している⇒⇒⇒Step1C  
 
-
-Step1A
+#### Step1A  
 コマンドラインに
 ```git clone https://github.com/Ogawa949698/ogawabox.git```
-2へ
+2へ  
 
-Step1B
+#### Step1B  
 ```wget`` (準備中)  
 ```unzip``` (準備中)  
 ```cd ~/ogawabox```  
 ```chmod +x getstarted.sh```  
 2へ  
 
-Step1C  
-コマンドラインに($は入力しない)  
+#### Step1C    
+コマンドラインに($は入力しない)    
 $ sudo apt update  
-$ sudo apt upgrade 
+$ sudo apt upgrade  
 $ sudo apt install git  
 1Aへ  
 
 
-Step2
+#### Step2
 ```./getstarted.sh```  
 
 ---

@@ -17,9 +17,9 @@ Please fix some files to run correctoly at your env.
 ********************************************************************************
 Caution　注意
 
-You can get NO WARRANTY
+You can get **NO WARRANTY**
 because this package is being developped ONLY to earn my skils to write shellskripts.
-このパッケージに保証はありませんので自己責任での利用をお願いいたします。
+このパッケージに**保証はありませんので自己責任**での利用をお願いいたします。
 
 If you cannot take responsiblity for your attempt,
 or if you cannot talk wheather ogawabox
@@ -65,12 +65,13 @@ $ ./getstarted.sh
 
 
 
-内容物 products
-ogawabox
-|-meta
-||-aup.sh releasenote.txtへの追記とgithubにogawabox/の全ファイルpushを対話形式で支援します
-||        This adds text to releasenote.txt
-||        and pushes all files in ogawabox/ to github automaticaly through a dialogue.
-||-releasenote.txt バージョン番号、日時、要約、詳細が記録されています
-|                 Ver.No, date, summary, article will be given.
-|-prepkotoriman.sh コマンドひとつで install kotoriotoko* by ONE command
+内容物 products  
+ogawabox  
+|-meta  
+||-aup.sh releasenote.txtへの追記とgithubにogawabox/の全ファイルpushを対話形式で支援します  
+||        This adds text to releasenote.txt  
+||        and pushes all files in ogawabox/ to github   automaticaly through a dialogue.  
+||-releasenote.txt バージョン番号、日時、要約、詳細が記録されています  
+|                 Ver.No, date, summary, article will be given.  
+|-prepkotoriman.sh コマンドひとつで install kotoriotoko* by ONE command  
+

@@ -60,3 +60,4 @@ releasenote.txt
 60 Fri Jun 30 03:00:43 JST 2023 ann? dekiraa
 61 Fri Jun 30 03:05:58 JST 2023 URL added
 62 Fri Jun 30 03:12:35 JST 2023 rmbox ugokukawakarannn
+63 Fri Jun 30 08:00:01 JST 2023 Puls X

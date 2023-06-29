@@ -46,3 +46,4 @@ releasenote.txt
 46 Thu Jun 29 11:05:33 JST 2023 GOmen3 mittudatta
 47 Thu Jun 29 11:07:34 JST 2023 ext kakutyousi.md
 48 Thu Jun 29 11:13:47 JST 2023 kaigyou spspky
+49 Thu Jun 29 11:18:41 JST 2023 yori markdown

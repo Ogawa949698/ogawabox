@@ -17,13 +17,13 @@ Please fix some files to run correctoly at your env.
 ********************************************************************************
 Caution　注意
 
-You can get **NO WARRANTY**
-because this package is being developped ONLY to earn my skils to write shellskripts.
-このパッケージに**保証はありませんので自己責任**での利用をお願いいたします。
+You can get **NO WARRANTY**  
+because this package is being developped ONLY to earn my skils to write shellskripts.  
+このパッケージに**保証はありませんので自己責任**での利用をお願いいたします。  
 
-If you cannot take responsiblity for your attempt,
-or if you cannot talk wheather ogawabox
-please refrain from using ogawabox.
+If you cannot take responsiblity for your attempt,  
+or if you cannot talk wheather ogawabox is hurmful or not  
+please refrain from using ogawabox.  
 *********************************************************************************
 
 ------------------------------------------------------------
@@ -43,22 +43,22 @@ Step1A
 2へ
 
 Step1B
-`wget` (準備中)
-`unzip (準備中)
-`cd ~/ogawabox`
-`chmod +x getstarted.sh`
-2へ
+```wget`` (準備中)  
+```unzip``` (準備中)  
+```cd ~/ogawabox```  
+```chmod +x getstarted.sh```  
+2へ  
 
-Step1C
-コマンドラインに($は入力しない)
-$ sudo apt update
+Step1C  
+コマンドラインに($は入力しない)  
+$ sudo apt update  
 $ sudo apt upgrade 
-$ sudo apt install git
-1Aへ
+$ sudo apt install git  
+1Aへ  
 
 
 Step2
-$ ./getstarted.sh
+```./getstarted.sh```  
 
 ------------------------------------------------------------
 

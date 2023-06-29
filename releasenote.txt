@@ -57,3 +57,4 @@ releasenote.txt
 57 Fri Jun 30 02:44:28 JST 2023 wsl no
 58 Fri Jun 30 02:52:03 JST 2023 dav1 webvab
 59 Fri Jun 30 02:59:45 JST 2023 gomen chmodsitenkatta
+60 Fri Jun 30 03:00:43 JST 2023 ann? dekiraa

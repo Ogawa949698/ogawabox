@@ -61,3 +61,4 @@ releasenote.txt
 61 Fri Jun 30 03:05:58 JST 2023 URL added
 62 Fri Jun 30 03:12:35 JST 2023 rmbox ugokukawakarannn
 63 Fri Jun 30 08:00:01 JST 2023 Puls X
+64 Fri Jun 30 08:06:33 JST 2023 Map imprroved

@@ -39,7 +39,7 @@ gitってなにか知らない && 管理者がgit cloneを許可している⇒�
 
 Step1A
 コマンドラインに
-`git clone https://github.com/Ogawa949698/ogawabox.git`
+```git clone https://github.com/Ogawa949698/ogawabox.git```
 2へ
 
 Step1B

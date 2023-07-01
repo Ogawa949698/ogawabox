@@ -63,3 +63,4 @@ releasenote.txt
 63 Fri Jun 30 08:00:01 JST 2023 Puls X
 64 Fri Jun 30 08:06:33 JST 2023 Map imprroved
 65 Fri Jun 30 08:39:19 JST 2023 newborn konnnitiha
+66 Sun Jul 2 00:15:53 JST 2023 shellshoccar tetugaku

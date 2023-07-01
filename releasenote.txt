@@ -73,3 +73,4 @@ releasenote.txt
 73 20230702004446 yosi douda
 74 20230702004555 douda hoi
 75 20230702004716 yoshi m
+76 20230702004753 sayonata_tempfile dabqdeyokatta

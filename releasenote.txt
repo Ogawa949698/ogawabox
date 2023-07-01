@@ -78,3 +78,4 @@ releasenote.txt
 78 20230702015911 tabun ikeruka
 79 20230702020048 ike osi
 80 20230702020557 dou desyou
+81 20230702020719 majide gomen

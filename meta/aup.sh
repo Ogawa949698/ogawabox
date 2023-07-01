@@ -9,7 +9,7 @@ echo ver
 echo $nver
 
 #get date
-dat=`/bin/date`
+dat=`/bin/date '+%Y%m%d%H%M%S'`
 echo $dat
 
 #get title or summary

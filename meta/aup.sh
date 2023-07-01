@@ -25,10 +25,13 @@ echo $nver $dat $tit $art >> ~/ogawabox/releasenote.txt
 
 #gitting
 git add -A
-echo $nver $tit > temp_for_commit
-comimess=$(cat temp_for_commit)
-git commit -m "$comimess"
-git push
-rm temp_for_commit
+#echo $nver $tit > temp_for_commit
+#comimess=$(cat temp_for_commit)
+#git commit -m "$comimess"
+cmes=`echo $nver $tit`
+#eho $cmes
+git commit -m "$nver $tit"
+#git push
+#rm temp_for_commit
 
 exit
